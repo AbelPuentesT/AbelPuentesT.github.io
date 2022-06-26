@@ -1,0 +1,51 @@
+p {
+  color: red;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  border: 1px teal;
+  background-color:skyblue;
+  text-shadow: violet;
+  display: inline-block;
+}
+
+h1 {
+  color: green;
+  font-size: 60px;
+  text-align: center;
+  border: 1px solid;
+}
+
+ul {
+  color: blue;
+}
+
+#mi-id2 {
+  color: navy;
+}
+
+#mi-id {
+  color: teal;
+}
+
+.mi-clase {
+  color: hotpink;
+}
+
+img[src] {
+  color: hotpink;
+  align-self: center;
+}
+
+html {
+  font-size: large;
+  font-family: "Noto Sans TC" Noto-Sans-TC;
+  background-color: #00539F;
+}
+body {
+  width: 890px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
