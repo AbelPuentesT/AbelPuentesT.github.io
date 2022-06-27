@@ -26,7 +26,7 @@ if (!localStorage.getItem('nombre')) {
     estableceNombreUsuario();
 } else {
     let nombreAlmacenado = localStorage.getItem('nombre');
-    miTitulo.textContent = 'Mozilla es genial,' + nombreAlmacenado;
+    miTitulo.textContent = 'President daña carro, Jhon haciendo vueltas esta pelao, Lucho cagasten de Bayer, Cavare Mantenido, Farid el abogado tramullero compae ,' + nombreAlmacenado;
 }
 miBoton.onclick = function () {
     estableceNombreUsuario();
