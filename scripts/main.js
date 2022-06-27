@@ -19,7 +19,7 @@ function estableceNombreUsuario() {
         estableceNombreUsuario();
     } else {
         localStorage.setItem('nombre', miNombre);
-        miTitulo.innerHTML = 'Mozilla is genial, ' + miNombre;
+        miTitulo.innerHTML = 'President daña carro, Jhon haciendo vueltas esta pelao, Lucho cagasten de Bayer, Cavare Mantenido, Farid el abogado tramullero compae ' + miNombre;
     }
 }
 if (!localStorage.getItem('nombre')) {
